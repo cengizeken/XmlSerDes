@@ -1,0 +1,7 @@
+F:\Ceken\Aselsan\XmlSerDes\XmlSerDes\bin\Debug\XmlSerDes.exe
+F:\Ceken\Aselsan\XmlSerDes\XmlSerDes\bin\Debug\XmlSerDes.pdb
+F:\Ceken\Aselsan\XmlSerDes\XmlSerDes\obj\x86\Debug\XmlSerDes.AnaForm.resources
+F:\Ceken\Aselsan\XmlSerDes\XmlSerDes\obj\x86\Debug\XmlSerDes.Properties.Resources.resources
+F:\Ceken\Aselsan\XmlSerDes\XmlSerDes\obj\x86\Debug\XmlSerDes.csproj.GenerateResource.Cache
+F:\Ceken\Aselsan\XmlSerDes\XmlSerDes\obj\x86\Debug\XmlSerDes.exe
+F:\Ceken\Aselsan\XmlSerDes\XmlSerDes\obj\x86\Debug\XmlSerDes.pdb

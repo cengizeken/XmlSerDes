@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<MySerializableClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MyInteger>5</MyInteger>
+  <CommanId>3</CommanId>
+  <MyList>
+    <unsignedShort>61442</unsignedShort>
+    <unsignedShort>48126</unsignedShort>
+  </MyList>
+</MySerializableClass>
